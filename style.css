@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+}
+nav{
+    position: sticky;
+    top: 0
+}
+.header{
+    background-color: rgb(230,77,34);
+   ;
+    
+}
+.rv ul li a{
+   color: white !important;
+    font-size: 20px;
+    padding-right: 10px !important;
+
+}
+
+.rv ul li a:hover{
+    color: black !important;
+}
+
+button:hover{
+   background-color:  black !important;
+}
+
+.im{
+    padding: 60px !important;
+}
+
+.dre{
+    font-size: 50px;
+  
+    
+}
+
+.about{
+    background-color: #e6e3dc;
+}
+
+.abo{
+   font-weight: 600;
+   font-size: 70px;
+}
+
+.tail{
+    background-color: rgb(239, 131,29);
+}
+.tai{
+    font-size: 50px;
+}
+
+.cal{
+    background-color: rgb(223, 220, 210);
+}
+
+.say{
+    background-color: rgb(234,103,23);
+}
+
+.join{
+    background-color: rgb(223, 220, 210);
+}
+.in{
+    
+    border-style: ridge;
+}
+
+
+
+
+.copy{
+    background-color: rgb(239, 131,29);
+}
+
+ul li{
+    font-size: 20px;
+    display: block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.hi{
+    padding-left: 2px;
+}
